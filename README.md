@@ -60,7 +60,7 @@
         <img src="ouputsample/input.jpg/128x128" alt="Sample Input Image">
     </p>
     <p>
-        <strong>Prediction:</strong> Rain likely (Confidence: 0.85)
+        <strong>Prediction:</strong> No rain likely (Confidence: 0.80)
     </p>
 
     <h2>Model Performance</h2>
