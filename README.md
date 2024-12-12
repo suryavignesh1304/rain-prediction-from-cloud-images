@@ -46,14 +46,14 @@
     <h2>Sample Outputs</h2>
     <h3>Deployed App Prediction</h3>
     <p>
-        <img src="ouputsample/app.png/400x300" alt="Deployed App Screenshot">
+        <img src="ouputsample/app.png" alt="Deployed App Screenshot">
     </p>
 
 
 <h3>Test Image Predictions</h3>
     <p>
         <strong>Input Image:</strong>
-        <img src="ouputsample/input.jpg/128x128" alt="Sample Input Image">
+        <img src="ouputsample/input.jpg" alt="Sample Input Image">
     </p>
     <p>
         <strong>Prediction:</strong> No rain likely (Confidence: 0.80)
